@@ -1,2 +1,3 @@
 # helloWorld
-To learn Git 
+To learn Git
+Rookie Coder
